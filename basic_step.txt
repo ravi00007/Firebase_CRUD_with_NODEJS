@@ -1,0 +1,17 @@
+all these are basic step
+
+1=> got to firebase website 
+2=> then create a project 
+3=> create a database
+4=> genrate a key 
+5=> then add a key to your project 
+6=> conncet to database
+
+intilize fire base 
+>> firebase init
+
+for run ---
+ cd fucntions
+then=>
+ npm run serve
+
